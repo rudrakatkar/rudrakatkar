@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 - 🎓 Student at Bharati Vidyapeeth College of Engineering, Navi Mumbai
-- 🌱 Learning **Web and App Development **
+- 🌱 Learning **Web and App Development**
 
 ## 🔧 Technologies & Tools
 - **Programming:** JavaScript
