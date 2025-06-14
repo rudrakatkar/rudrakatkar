@@ -1,6 +1,6 @@
 # Hi there, I'm Rudra Katkar 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **Computer Vision, Machine Learning, and AI**. I enjoy building innovative solutions that merge hardware and software to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **Web Development, Machine Learning, and AI**. I enjoy building innovative solutions that merge hardware and software to solve real-world problems.
 
 ## 🚀 About Me
 - 🎓 Student at Bharati Vidyapeeth College of Engineering, Navi Mumbai
