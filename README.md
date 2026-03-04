@@ -116,16 +116,6 @@ Features:
 
 ---
 
-# 📈 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakatkar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌍 Connect With Me
 
 📧 Email
