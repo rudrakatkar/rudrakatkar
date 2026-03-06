@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi 👋 I'm Rudra Katkar
 
@@ -129,4 +129,4 @@ https://github.com/rudrakatkar
 
 ---
 
-⭐ *Always open to collaborating on robotics, and open-source projects.*
+⭐ *Always open to collaborating on robotics, and open-source projects.* -->
